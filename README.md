@@ -1,1 +1,2 @@
 # priceLandingFrontEnd
+Author-Archita Tripathi
